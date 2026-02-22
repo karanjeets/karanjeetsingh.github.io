@@ -1,0 +1,34 @@
+# Karanjeet Singh
+
+> Staff Machine Learning Engineer at Apple. Founding member of Apple Intelligence.
+
+## About
+
+Karanjeet Singh is a Staff Machine Learning Engineer at Apple, where he focuses on building large-scale machine learning systems for information extraction and curation. He is part of the core team behind Apple Intelligence, focusing on pre-training data quality and curation for the foundation models that power AI features across Apple devices, as well as MM1, Apple's multimodal model family.
+
+He has over a decade of experience in AI and ML, with a focus on information extraction and retrieval at web scale. Previously, he worked as a Machine Learning Researcher at NASA Jet Propulsion Laboratory as part of the DARPA Memex program, where he worked on crawling and search technologies for the deep and dark web. At JPL, he also contributed to the Mars Target Encyclopedia, an NLP system for extracting compositional knowledge from Mars science literature.
+
+He is an elected member of the Apache Software Foundation, a committer and PMC member on Apache Nutch, and co-creator of Sparkler, a distributed web crawler on Apache Spark. He holds a Master's in Computer Science from USC Viterbi School of Engineering.
+
+## Links
+
+- Website: https://karanjeetsingh.ai/
+- Google Scholar: https://scholar.google.com/citations?user=T9IoM-8AAAAJ&hl=en
+- GitHub: https://github.com/karanjeets
+- LinkedIn: https://www.linkedin.com/in/singhkaranjeet/
+- Apache: https://people.apache.org/phonebook.html?uid=karanjeet
+
+## Selected Publications
+
+- Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining. J. Li, J. P. Gardner, D. Kang, F. Shi, K. Singh, et al. EACL 2026.
+- Apple Intelligence Foundation Language Models: Tech Report 2025. E. Li, A. B. L. Larsen, ...K. Singh... et al. Apple, 2025.
+- MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training. B. McKinzie, Z. Gan, ...K. Singh... et al. ECCV 2024.
+- Apple Intelligence Foundation Language Models. T. Gunter, Z. Wang, ...K. Singh... et al. Apple ML Research, 2024.
+- Mars Target Encyclopedia: Rock and Soil Composition Extracted from the Literature. K. Wagstaff, R. Francis, T. Gowda, Y. Lu, E. Riloff, K. Singh, N. Lanza. AAAI, 2018.
+- An Automated Approach for Information and Referral of Social Services Using Machine Learning. M. Sharan, N. K. Ottilingam, C. A. Mattmann, K. Singh, et al. IEEE IRI, 2017.
+
+## Open Source
+
+- Apache Nutch — Committer & PMC Member. A highly extensible and scalable open-source web crawler built on Apache Hadoop.
+- Apache DRAT — Committer & PMC Member. A Distributed Release Audit Tool that automates license header checking and code compliance analysis.
+- Sparkler — Co-creator. A distributed web crawler on Apache Spark.

@@ -1,0 +1,19 @@
+{
+  "name": "Karanjeet Singh",
+  "short_name": "KS",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/linkedin-profile.jpg",
+      "sizes": "199x199",
+      "type": "image/jpeg"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
